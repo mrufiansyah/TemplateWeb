@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import './uikit.css'; */
+
+/* core:css */
+@import "./assets/vendors/core/core.css";
+/* inject:css */
+@import "./assets/fonts/feather-font/css/iconfont.css";
+@import "./assets/vendors/flag-icon-css/css/flag-icon.min.css";
+/* Layout styles */
+@import "./assets/css/demo1/style.css";
+/* Plugin css for this page */
+@import "./assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css";
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
